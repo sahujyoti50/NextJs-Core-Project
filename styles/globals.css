@@ -1,0 +1,23 @@
+ol {
+  text-align: center;
+  width: 500px;
+  height: 530px;
+  box-shadow: 2px 3px 10px rgb(11, 78, 107);
+  padding-left: 0px;
+  margin: auto;
+  margin-top: 20px;
+}
+li {
+  list-style: none;
+  padding: 20px;
+  font-family: Verdana;
+}
+
+button {
+  background-color: rgb(90, 95, 95);
+  border: transparent;
+  padding: 15px;
+  color: white;
+  margin: 5px;
+  font-family: Verdana;
+}
